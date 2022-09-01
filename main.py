@@ -73,7 +73,6 @@ class Wallet:
 chain = Chain()
 
 if __name__ == '__main__':
-	chain = Chain()
 
 	satoshi = Wallet()
 	bob = Wallet()
